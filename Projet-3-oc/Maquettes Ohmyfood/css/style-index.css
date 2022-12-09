@@ -565,6 +565,8 @@ header .logo img {
 .footer {
   background-color: #353535;
   padding: 25px;
+}
+ul{
   list-style: none;
 }
 .footer__logo {
